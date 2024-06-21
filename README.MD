@@ -7,5 +7,6 @@ Page desenvolvida durante a aula de APIs. Onde deveriamos criar um baralho, e a 
 - HTML
 - CSS
 - JavaScript
+
 ## Page
 <img src = "animação-api-fetch.gif">
