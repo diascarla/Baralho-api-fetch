@@ -9,4 +9,4 @@ Page desenvolvida durante a aula de APIs. Onde deveriamos criar um baralho, e a 
 - JavaScript
 
 ## Page
-<img src = "animação-api-fetch.gif">
+<img src = "Animação-api-fetch.gif">
